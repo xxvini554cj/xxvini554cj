@@ -6,4 +6,4 @@
 -estou me desenvolvendo na linguagem JavaScript
 - - utilizou esse espaço para m,ina organização e compartilhamento dos meus projeto desenvolvidos
     
- ![descrição do gif](https://compote.slate.com/images/697b023b-64a5-49a0-8059-27b963453fb1.gif)
+ ![descrição do gif](https://media4.giphy.com/media/WowwJneAjk51X8aJqN/200w.gif?cid=6c09b952uzy9wtn4fnikegebyjd497ny1uq1nqz7wgju0y59&ep=v1_videos_search&rid=200w.gif&ct=v)
