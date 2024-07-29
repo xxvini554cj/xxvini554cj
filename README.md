@@ -5,5 +5,4 @@
 -estou estudando na [alura](https;//www.aura.com.br/) 
 -estou me desenvolvendo na linguagem JavaScript
 - - utilizou esse espaço para m,ina organização e compartilhamento dos meus projeto desenvolvidos
-    ![image](https://github.com/user-attachments/assets/13076b59-ae75-42aa-a26d-717485d87578)
-
+    ![image](https://i.pinimg.com/originals/7f/11/69/7f11698ae54cefd811b2cf5e61046896.gif
