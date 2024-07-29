@@ -5,4 +5,4 @@
 -estou estudando na [alura](https;//www.aura.com.br/) 
 -estou me desenvolvendo na linguagem JavaScript
 - - utilizou esse espaço para m,ina organização e compartilhamento dos meus projeto desenvolvidos
-    ![image](![image](https://upload.wikimedia.org/wikipedia/commons/5/5a/Animated_Wallpaper_Windows_10_-_Wallpaper_Engine.gif
+    ![image](![image](![image](https://github.com/user-attachments/assets/ccc9ef27-024e-4cf9-a207-1aa525e63b1d)
